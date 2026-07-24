@@ -9,4 +9,5 @@ function draw() {
   text("Hello World 3!", 150, 200);
   text("Hello World 4!", 150, 200);
   text("Hello World 5!", 150, 200); //@billtranfx
+  text("Hello World I!", 150, 200); //@tranvangiang 
 }
